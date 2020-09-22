@@ -4,7 +4,7 @@ A collection of Airline Tails in SVG format.
 
 ### Contributing
 
-Please feel free to submit pull requests with updates or additions. If you are creating a new one please use [blank.svg" src="/svg/blank.svg) as the starting point so that it has the same dimensions and shape.
+Please feel free to submit pull requests with updates or additions. If you are creating a new one please use [blank.svg](/svg/blank.svg) as the starting point so that it has the same dimensions and shape.
 
 ### Previews
 
