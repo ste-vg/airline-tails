@@ -48,6 +48,5 @@ United Airlines | <img alt="United Airlines" src="/svg/united-airlines.svg" widt
 Virgin Atlantic | <img alt="Virgin Atlantic" src="/svg/virgin-atlantic.svg" width="75">
 Vueling | <img alt="Vueling" src="/svg/vueling.svg" width="75">
 Westjet | <img alt="Westjet" src="/svg/westjet.svg" width="75">
-
 Blank Tail | <img alt="Blank Tail" src="/svg/blank.svg" width="75">
 
